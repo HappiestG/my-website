@@ -1,0 +1,22 @@
+body {
+    background-color: lightgray;
+}
+h1 {
+    color:blue
+}
+p {
+    font-size: 18px;
+}
+div{
+    background-color: white;
+    margin:20px;
+    padding:15px;
+}
+img{
+    border-radius:10px;
+}
+.footer{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+}
